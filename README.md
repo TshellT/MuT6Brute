@@ -3,5 +3,6 @@
 
 # MuT6Brute
 ```git clone https://github.com/Sch01ar/MuT6Brute.git``` <br>
-```pip3 install requirements.txt``` <br>
+```cd MuT6Brute/```<br>
+```pip3 install -r requirements.txt``` <br>
 ```python3 MuT6Brute.py [-h] [-r RAR_FILE] [-z ZIP_FILE] [-p PASS_WORD]``` <br>
