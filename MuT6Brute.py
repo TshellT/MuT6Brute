@@ -1,6 +1,3 @@
-# -*- coding:utf-8 -*-
-__author__ = "MuT6 Sch01aR"
-
 import zipfile
 import argparse
 from unrar import rarfile
